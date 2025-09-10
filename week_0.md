@@ -76,12 +76,12 @@ C언어에서 main 함수는 파일이 실행되면 가장 먼저 실행되는 �
 ### Chatgpt, copilot 등의 사용 방법
 
 - 좋은 예시
-
-![image.png](image.png)
+<img width="817" height="1227" alt="image" src="https://github.com/user-attachments/assets/502714bb-e518-44ee-a6f6-2523aad332a7" />
 
 - 나쁜 예시
 
-![image.png](image%201.png)
+<img width="561" height="1173" alt="image 1" src="https://github.com/user-attachments/assets/58c6d399-b317-4c63-bd2f-93c6d9c33f7d" />
+
 
 - 생각과 다른 컴퓨터 공부
 
