@@ -118,7 +118,7 @@ do {
 
 - for문 vs. while문 vs. do-while
 
-![image.png](image.png)
+<img width="1125" height="618" alt="image" src="https://github.com/user-attachments/assets/8a6edf70-33d3-4733-8d73-cdbff426de5b" />
 
 - for문과 while문의 예제는 전 주차를 참고
 
@@ -179,7 +179,7 @@ char name[20];     // 문자 20개 저장
 - 배열의 각 칸에는 인덱스(번호)가 있음
 - C언어의 배열 인덱스는 0부터 시작
 
-![image.png](image%201.png)
+<img width="989" height="664" alt="image 1" src="https://github.com/user-attachments/assets/6cf1f48f-6def-4f5f-bed0-0f520f84ced7" />
 
 ### 배열 값 저장과 사용
 
@@ -372,7 +372,7 @@ int main(void)
 - 다차원 배열은 배열 내부에 또 다른 배열이 들어가는 배열을 뜻합니다.
 - 특히 2차원 배열은 아주 다양한 경우에 응용됩니다. 문제를 더 다양하게 접근할 수 있도록 해줍니다.
 
-![image.png](image%202.png)
+<img width="838" height="373" alt="image 2" src="https://github.com/user-attachments/assets/26701994-9c1f-469f-990c-262e26b303c3" />
 
 ### 2차원 배열 선언 및 초기화
 
