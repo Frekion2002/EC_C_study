@@ -85,27 +85,27 @@ int x : x라는 변수를 int라는 자료형으로 선언
     
     - **char는 왜 정수형?
         
-        ![image.png](image.png)
+        <img width="755" height="130" alt="image" src="https://github.com/user-attachments/assets/c69801fd-db07-497f-8288-e3d20dd967ef" />
+
         
     - int와 long 둘다 4바이튼데?
         
-        ![image.png](image%201.png)
-        
+        <img width="1205" height="695" alt="image 1" src="https://github.com/user-attachments/assets/4342f587-1a05-45eb-a422-7c4509162cee" />
+
     
     - double과 long double은 8byte 인데?
         
-        ![image.png](image%202.png)
-        
-    
+        <img width="1095" height="282" alt="image 2" src="https://github.com/user-attachments/assets/be08a83e-a2ab-4d23-946a-142539ee4644" />
 
+  
 x = 3 : x라는 변수에 3이라는 값을 할당
 
 - 할당
     
     메모리(RAM)에 값을 저장
     
-    ![image.png](image%203.png)
-    
+    <img width="2043" height="717" alt="image 3" src="https://github.com/user-attachments/assets/f0a6fb04-4f44-488a-a216-89e030a56956" />
+
 
 - 다양한 출력타입
     
@@ -265,7 +265,7 @@ int main(void)
 
 [https://www.ascii-codes.com/](https://www.ascii-codes.com/)
 
-![Untitled](Untitled.png)
+<img width="715" height="488" alt="Untitled" src="https://github.com/user-attachments/assets/34c71525-b6a0-42d0-80fe-f0af0ca8cd69" />
 
 문자열은 사실 컴퓨터 내부적으로 숫자로 동작되기 때문에, 아스키코드로 약속된 값을 이용합니다. 
 
@@ -306,7 +306,7 @@ A
 
 - 10진수로 변환하는 방법
 
-![image.png](image%204.png)
+<img width="594" height="257" alt="image 4" src="https://github.com/user-attachments/assets/46f58701-70a1-4a22-9674-b08b1087d5a4" />
 
 100이라는 수를 각각 10진수, 8진수, 16진수로 출력해보기
 
@@ -477,7 +477,7 @@ x가 y보다 큰가?
 
 <논리연산자>
 
-![image.png](image%205.png)
+<img width="594" height="355" alt="image 5" src="https://github.com/user-attachments/assets/f9cb44b2-1ddb-47ba-81fd-0a2ce8eb96cd" />
 
 && : and 
 
