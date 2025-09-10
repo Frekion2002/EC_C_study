@@ -603,7 +603,7 @@ int main(void)
 
 - 다양한 변수
 
-![image.png](image.png)
+<img width="839" height="760" alt="image" src="https://github.com/user-attachments/assets/ca33872c-7dc7-422c-a018-31ff0a47def2" />
 
 <특정한 금액을 입력 받고, 해당 금액에서 화폐의 개수를 가장 적게 주는 프로그램>
 
@@ -772,8 +772,8 @@ int main(void)
         */
         ```
         
-        ![image.png](image%201.png)
-        
+        <img width="744" height="936" alt="image 1" src="https://github.com/user-attachments/assets/1cfcffb9-dd0a-4076-9e44-e522fd049d55" />
+
     
     - 함수 호출의 특징
         - 재사용성 : 동일한 작업을 반복적으로 수행할 때 효율적입니다.
