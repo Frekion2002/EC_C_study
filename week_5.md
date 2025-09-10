@@ -8,7 +8,7 @@
 
 <포인터의 기본개념>
 
-![image.png](image.png)
+<img width="511" height="220" alt="image" src="https://github.com/user-attachments/assets/7e34d9cc-fe72-4d5b-902a-9c44f1dfce8d" />
 
 <포인터 기본 예시>
 
@@ -112,11 +112,11 @@ int main(void)
 }
 ```
 
-![image.png](image%201.png)
+<img width="762" height="173" alt="image 1" src="https://github.com/user-attachments/assets/d1e7b6b0-8491-4fd8-a9f2-6bdcb5ff1cc2" />
 
 - 변수 num의 주소를 ptr에 저장하고, 변수 ptr의 주소를 dptr에 저장했으므로 다음과 같은 그림을 그릴 수 있다.
 
-![image.png](image%202.png)
+<img width="259" height="251" alt="image 2" src="https://github.com/user-attachments/assets/fad52431-86f9-42d0-9127-50e07e8fddee" />
 
 - dptr은 ptr의 주소를 가리키고 있고, ptr은 num의 주소를 가르키고 있다.
 - 그렇기에 *dptr은 포인터 변수 ptr을, **dptr은 변수 num을 의미하게 된다.
@@ -360,8 +360,8 @@ int main() {
     - 장점 - 상황에 따라 원하는 크기만큼의 메모리가 할당되고 이미 할당된 메모리라도 언제든 크기 조정 가능
     - 단점 - 더 이상 사용하지 않을 때 명시적으로 메모리를 해제해 주어야 한다.
     
-    ![image.png](image%203.png)
-    
+    <img width="1030" height="222" alt="image 3" src="https://github.com/user-attachments/assets/67de3b4d-f819-4132-a849-1a133d82d6e3" />
+
     ```c
     #define _CRT_SECURE_NO_WARNINGS
     #include <stdio.h>
@@ -724,7 +724,8 @@ struct Book {
 };
 ```
 
-![image.png](image%204.png)
+<img width="512" height="535" alt="image 4" src="https://github.com/user-attachments/assets/ed0b8479-b760-4112-bcdf-eb414a9447d7" />
+
 
 - struct라는 키워드를 통해 구조체의 시작을 알리고, 구조체 이름을 book으로 정의하고 있다.
 - 중괄호 사이에 title, author, price와 같은 변수들이 book의 멤버 변수들이다.
