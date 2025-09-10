@@ -15,7 +15,7 @@ int myAge = 43;
 int* ptr = &myAge; // 이 부분이 포인터 선언하는 부분. * <- 애스터리스크(asterisk)
 ```
 
-![image.png](image.png)
+<img width="511" height="220" alt="image" src="https://github.com/user-attachments/assets/5d88bf2c-6db2-4191-9680-21f2ea0428b6" />
 
 - 왜 배워야 할까?
     1. 효율과 성능의 핵심
@@ -210,7 +210,7 @@ int main() {
 - p는 num의 주소를 저장하는 포인터
 - *p를 사용하면 num의 값을 읽을 수 있다.
 
-![image.png](image%201.png)
+<img width="192" height="145" alt="image 1" src="https://github.com/user-attachments/assets/010f7a4a-326d-4fba-a3c2-9ace95746c9c" />
 
 <위와 비슷한 포인터 기본 예제>
 
@@ -445,7 +445,7 @@ while (*str != '\0'){
 
 <문자열 입력>
 
-![image.png](image%202.png)
+<img width="1104" height="606" alt="image 2" src="https://github.com/user-attachments/assets/e2614d67-2b0a-4d2c-a291-bc4d870ddcf5" />
 
 <사용자에게 문자를 입력받아서 그 문자열의 글자수 세기>
 
@@ -489,7 +489,7 @@ string 헤더 파일에는 문자열 관련하여 유용한 함수들을 많이 
 
 “#include <string.h>”로 선언하고, 관련 함수들을 사용하면 된다.
 
-![image.png](image%203.png)
+<img width="1053" height="368" alt="image 3" src="https://github.com/user-attachments/assets/e1f42c2c-ecd1-4fed-97b3-9b5cbc3d28bb" />
 
 ```c
 #include <stdio.h>
